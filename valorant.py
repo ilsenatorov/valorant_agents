@@ -14,14 +14,14 @@ agent_roles = {
     "skye": "initiator",
     "yoru": "duelist",
     "astra": "controller",
-    "kay/o": "initiator",
+    "kayo": "initiator",
     "chamber": "sentinel",
     "neon": "duelist",
     "fade": "initiator",
     "harbor": "controller",
     "gekko": "initiator",
-    "deadlock": "sentinel",
+    # "deadlock": "sentinel",
 }
 emea = ["FNC", "NAVI", "BBL", "FUT", "TL", "TH", "KOI", "KC", "GIA", "VIT"]
 amer = ["LOUD", "NRG", "EG", "C9", "LEV", "FUR", "MIBR", "KRÜ", "SEN", "100T"]
-apac = ["T1", "PRX", "RRQ", "GE", "DRX", "DFM", "GENG", "ZETA", "TLN", "TS"]
+apac = ["T1", "PRX", "RRQ", "GE", "DRX", "DFM", "GEN", "ZETA", "TLN", "TS"]
