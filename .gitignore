@@ -1,3 +1,4 @@
 .*
 !.gitignore
 __*__
+*.pkl
